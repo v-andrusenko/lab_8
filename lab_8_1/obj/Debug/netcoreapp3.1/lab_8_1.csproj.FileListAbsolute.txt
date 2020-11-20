@@ -1,0 +1,13 @@
+C:\Users\Valerii\Desktop\lab_8\lab_8_1\bin\Debug\netcoreapp3.1\lab_8_1.exe
+C:\Users\Valerii\Desktop\lab_8\lab_8_1\bin\Debug\netcoreapp3.1\lab_8_1.deps.json
+C:\Users\Valerii\Desktop\lab_8\lab_8_1\bin\Debug\netcoreapp3.1\lab_8_1.runtimeconfig.json
+C:\Users\Valerii\Desktop\lab_8\lab_8_1\bin\Debug\netcoreapp3.1\lab_8_1.runtimeconfig.dev.json
+C:\Users\Valerii\Desktop\lab_8\lab_8_1\bin\Debug\netcoreapp3.1\lab_8_1.dll
+C:\Users\Valerii\Desktop\lab_8\lab_8_1\bin\Debug\netcoreapp3.1\lab_8_1.pdb
+C:\Users\Valerii\Desktop\lab_8\lab_8_1\obj\Debug\netcoreapp3.1\lab_8_1.csprojAssemblyReference.cache
+C:\Users\Valerii\Desktop\lab_8\lab_8_1\obj\Debug\netcoreapp3.1\lab_8_1.AssemblyInfoInputs.cache
+C:\Users\Valerii\Desktop\lab_8\lab_8_1\obj\Debug\netcoreapp3.1\lab_8_1.AssemblyInfo.cs
+C:\Users\Valerii\Desktop\lab_8\lab_8_1\obj\Debug\netcoreapp3.1\lab_8_1.csproj.CoreCompileInputs.cache
+C:\Users\Valerii\Desktop\lab_8\lab_8_1\obj\Debug\netcoreapp3.1\lab_8_1.dll
+C:\Users\Valerii\Desktop\lab_8\lab_8_1\obj\Debug\netcoreapp3.1\lab_8_1.pdb
+C:\Users\Valerii\Desktop\lab_8\lab_8_1\obj\Debug\netcoreapp3.1\lab_8_1.genruntimeconfig.cache
