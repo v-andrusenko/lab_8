@@ -24,7 +24,7 @@ namespace lab_8_1
                 {
                     return x;
                 }
-                if (index == -1)
+                if (index == 1)
                 {
                     return y;
                 }
@@ -39,7 +39,7 @@ namespace lab_8_1
                 {
                     x = value;
                 }
-                else if (index ==-1)
+                else if (index ==1)
                 {
                     y = value;
                 }

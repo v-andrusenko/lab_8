@@ -22,7 +22,7 @@ namespace lab_8_1
                 Console.WriteLine();
 
 
-                Console.Write("Введите индекс (0 и -1 - вывод значений поля): ");
+                Console.Write("Введите индекс (0 и 1 - вывод значений поля): ");
                 int index = int.Parse(Console.ReadLine());
 
 
