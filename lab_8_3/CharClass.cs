@@ -7,34 +7,36 @@ namespace lab_8_3
     class CharClass : IntClass
     {
         protected char[] charArray;
-        public int[] result = new int[2];
-        public CharClass() { }
-        public CharClass(int length)
+        public CharClass()
         {
-            charArray = new char[length];
+            charArray = new char[26];
+        }
+        public void fillArray()
+        {
+            int k = 0;
+            for (int i=97;i<=122;i++)
+            {
+                charArray[(char)k] = (char)i;
+                k++;
+            }
         }
         public char this[char index]
         {
             get
             {
-                return charArray[index];
+                return charArray[Convert.ToChar(index)];
             }
             set
             {
-                charArray[index] = value;
+                charArray[Convert.ToChar(index)] = value;
             }
         }
         public new int[] arrayLength
         {
-            
+
             get
             {
-                return arrayLength;
-            }
-            set
-            {
-                arrayLength[0] = base.intArray.Length;
-                arrayLength[1] = charArray.Length;
+                return new int[2] { base.arrayLength, charArray.Length };
             }
         }
     }
